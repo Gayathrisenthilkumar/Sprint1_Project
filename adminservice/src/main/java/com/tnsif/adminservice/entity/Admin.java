@@ -3,6 +3,8 @@ package com.tnsif.adminservice.entity;
 
 
 
+import com.tnsif.adminservice.Role;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
